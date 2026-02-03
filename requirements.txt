@@ -1,1 +1,1 @@
-init structure
+# No external dependencies for MVP
